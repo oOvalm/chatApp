@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XCsq176n97xa4fPzDbHJEdb6QSMY+95Wc/tN8SwIu5RPn5l10b8MK+EDA90IDL7JnnNMtWZN3rDdfqIMGQdJcA==",
+  "success": true,
+  "projectFilePath": "D:\\coding\\VsualStudioCode\\ChatNetClient\\ChatNetClient\\ChatNetClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oval_m\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
